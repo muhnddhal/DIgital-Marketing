@@ -1,2 +1,2 @@
-# DIgital-Marketing
+# Digital-Marketing
 Digital Marketing projects
